@@ -1,0 +1,16 @@
+{
+    "api":{
+        "v1":{
+            "clients":{
+                "5aa65202f97621ef2d6a136a":{
+                    "test":{
+                        "vineyards":[
+                            "test-permission"
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}
+
